@@ -9,9 +9,9 @@ const IndexPage = () => (
     </title>
     <h1 className="text-5xl pt-20 pr-20 pl-20 pb-10"> 
       <div className="flex flex-row justify-center pb-7">
-          <a href="https://nextjs.org">
-          <img src="https://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg" className="h-48 w-48 rounded-full"></img>
-          </a>
+          
+          <img draggable="false" src="https://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg" className="h-48 w-48 rounded-full"></img>
+          
       </div>
       <strong className="items-center">
             Use <div className="flex flex-row">Never&nbsp;<div className="text-indigo-600">Rick Roll</div></div> and <a>No More</a> <a className="text-indigo-600 flex flex-row">Rick Roll</a>{' '} again

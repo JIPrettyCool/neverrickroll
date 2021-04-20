@@ -1,3 +1,5 @@
+### There is no extension yet, i'll try to make one when i have free time, you can use this website for your own projects kbai
+
 ## Website for Never Rickroll.
 
 Google Extension that protects you from Rick Roll.
